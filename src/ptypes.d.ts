@@ -83,7 +83,6 @@ declare namespace PandoraTypes {
 
 /**
  * pandora json api authentication docs
- * @see {@file}
  * @see {@link https://6xq.net/pandora-apidoc/json/}
  */
 declare namespace Auth {
